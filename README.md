@@ -1,3 +1,3 @@
 # hello-world
-My first test Github repository
-Hi All - This is Sid.
+My first test Github repository.
+Hello World - This is Sid.
